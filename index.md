@@ -10,3 +10,7 @@ A list of traits of my character
 * friendly
 * power
 * hero
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
